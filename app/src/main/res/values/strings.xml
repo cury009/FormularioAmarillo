@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FormularioAmarillo</string>
+    <string name="txtNombre">Nombre</string>
+    <string name="radioButtonNacional">prdocucto Nacional</string>
+    <string name="radioButtonProductoExtranjero">producto Extranjero</string>
+    <string name="producto_nacional">producto Nacional</string>
+    <string name="btn_Mostrar">MOSTRAR</string>
+    <string name="btnMostrarNacionalidad">MOSTRAR NACIONALIDAD</string>
+    <string name="cb_Acepto">Acepto los Terminos</string>
+    <string name="acepto_los_terminso_sin_leerlos">Acepto los terminso sin leerlos</string>
+    <string name="acepto_los_terminos_sin_leerlos">ACEPTO LOS TERMINOS SIN LEERLOS</string>
+</resources>
